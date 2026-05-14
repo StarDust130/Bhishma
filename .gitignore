@@ -73,7 +73,6 @@ out/
 !.yarn/sdks
 !.yarn/versions
 .yarn-integrity
-pnpm-lock.yaml
 
 # IDEs and editors
 .vscode/
