@@ -282,10 +282,6 @@ This project is licensed under the StarDust License - "use it as you want but do
 
 <div align="center">
   <p style="font-size:28px; margin:8px 0;">✨ ✨ ✨</p>
-<img 
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=✌️+Build+Fearlessly;🚀+Ship+Fast;🧠+Think+Deep;🔥+Create+What+Matters;⚡+Code+With+Purpose;👋+Hello+Mr.+BKL"
-  alt="Typing SVG"
-/>
 
   <br />
   <sub><b>Built with precision. Engineered for the future.</b></sub>
