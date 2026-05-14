@@ -3,7 +3,7 @@
   <br />
   <!-- <img src="public/logo.png" alt="Bhishma Logo" width="200" /> -->
   
-  # ⚔️ Bhishma  ⚡
+  # ⚔️ ॥ भीष्म • Bhīṣma ॥ ⚡
   <p align="center">
     <strong>An AI Agent that grows with you. 🪴</strong> 
     
