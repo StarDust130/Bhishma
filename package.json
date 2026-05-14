@@ -2,11 +2,12 @@
   "name": "bhishma",
   "private": true,
   "packageManager": "pnpm@11.0.0",
-  "scripts": {
-    "dev": "turbo dev",
-    "build": "turbo build",
-    "prepare": "husky"
-  },
+"scripts": {
+  "dev": "turbo dev",
+  "build": "turbo build",
+  "lint": "turbo lint",
+  "typecheck": "turbo typecheck"
+},
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "eslint": "^10.3.0",
