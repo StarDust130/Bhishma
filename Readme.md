@@ -3,22 +3,22 @@
   <br />
   <!-- <img src="public/logo.png" alt="Bhishma Logo" width="200" /> -->
   
-  # ⚔️ Bhishma 
+  # ⚔️ Bhishma  ⚡
 
 
 
   
   <p align="center">
-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> 
-    <strong>An AI operating system that grows with you ⚡</strong>
+    <strong>An AI Agent that grows with you. 🪴</strong>
     <br />
-    A cloud-native, deeply personalized AI agent orchestrator designed to navigate the global opportunity landscape.
-       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" height="35" /> 
+
+
+    A cloud-native, deeply personalized AI agent orchestrator designed to navigate the global opportunity landscape. 🍼
+    
   </p>
 
 </div>
 
-<br />
 
 ---
 
@@ -295,7 +295,8 @@ This project is licensed under the StarDust License - "use it as you want but do
   <br />
   <sub><b>Built with precision. Engineered for the future.</b></sub>
   <br />
-  <p style="margin:6px 0; font-size:18px;">🔮  •  😵‍💫  •  🤖</p>
+  <p style="margin:6px 0; font-size:18px;">  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" />  
+       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" height="35" /> </p>
   <br />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool line animation" width="500" />
 </div>
