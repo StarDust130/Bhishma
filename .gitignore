@@ -1,0 +1,117 @@
+out/
+tmp/
+# .gitignore — Node / pnpm / Next.js / Turborepo / Express
+
+# Node / package managers
+node_modules/
+.pnpm-store/
+node_modules/.pnpm/
+.pnpm-debug.log*
+node_modules
+dist
+.next
+.env
+coverage
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Testing / coverage
+coverage/
+.nyc_output/
+
+# Build / output
+dist/
+build/
+out/
+.tmp/
+.temp/
+.turbo/
+
+# Next.js
+.next/
+.next/cache/
+out/
+.next/telemetry.json
+
+# Vercel / Now / Netlify
+.vercel/
+.vercel_build_output/
+.now
+.now__logs
+.netlify/
+
+# Environment files (keep secrets out of repo)
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Dependency managers / package managers
+.pnp/
+.pnp.js
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.yarn-integrity
+pnpm-lock.yaml
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-*
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary / cache
+tmp/
+temp/
+.cache/
+.sass-cache/
+.parcel-cache/
+
+# Express runtime folders
+uploads/
+uploads/**
+
+# Misc
+*.tgz
+*.gz
+*.zip
+*.pem
+*.key
+*.crt
+
+# Docker override files (optional local overrides)
+docker-compose.override.yml
+
+# Misc npm artifacts
+.npm
+npm-debug.log
+
+# End of .gitignore
+
+/generated/prisma
