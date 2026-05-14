@@ -1,12 +1,12 @@
 <div align="center">
 
-  <br />
-  <!-- <img src="public/logo.png" alt="Bhishma Logo" width="200" /> -->
-  
   # ⚔️ ॥ भीष्म • Bhīṣma ॥ ⚡
+  <div align="center">
+  <img src="public/banner.png" alt="Event Flow Diagram" width="800" />
+</div>
+
   <p align="center">
     <strong>An AI Agent that grows with you. 🪴</strong> 
-    
   </p>
 
 #### A cloud-native, deeply personalized AI agent orchestrator designed to navigate the global opportunity landscape.
