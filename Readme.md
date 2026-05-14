@@ -4,18 +4,12 @@
   <!-- <img src="public/logo.png" alt="Bhishma Logo" width="200" /> -->
   
   # ⚔️ Bhishma  ⚡
-
-
-
-  
   <p align="center">
-    <strong>An AI Agent that grows with you. 🪴</strong>
-    <br />
-
-
-    A cloud-native, deeply personalized AI agent orchestrator designed to navigate the global opportunity landscape. 🍼
+    <strong>An AI Agent that grows with you. 🪴</strong> 
     
   </p>
+
+#### A cloud-native, deeply personalized AI agent orchestrator designed to navigate the global opportunity landscape. 🍼
 
 </div>
 
