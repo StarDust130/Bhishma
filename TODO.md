@@ -2,17 +2,17 @@
 
 ## ✅ PHASE 0 — FOUNDATION (DONE)
 
-* [x] Monorepo setup
-* [x] pnpm workspace
-* [x] Turborepo
-* [x] apps/web
-* [x] apps/core
-* [x] apps/workers
-* [x] Prisma setup
-* [x] TypeScript setup
-* [x] GitHub repo
-* [x] CI workflow
-* [x] README setup
+* ✅ Monorepo setup
+* ✅ pnpm workspace
+* ✅ Turborepo
+* ✅ apps/web
+* ✅ apps/core
+* ✅ apps/workers
+* ✅ Prisma setup
+* ✅ TypeScript setup
+* ✅ GitHub repo
+* ✅ CI workflow
+* ✅ README setup
 
 ---
 
@@ -24,15 +24,15 @@ Create production-grade backend foundation.
 
 ### 🔥 Tasks
 
-* [ ] Setup Docker Compose
-* [ ] Add PostgreSQL
-* [ ] Add Redis
-* [ ] Add Qdrant
-* [ ] Test local connections
-* [ ] Configure `.env`
-* [ ] Create Prisma schema
-* [ ] Create first migration
-* [ ] Generate Prisma client
+* ✅ Setup Docker Compose
+* ✅ Add PostgreSQL
+* ✅ Add Redis
+* ✅ Add Qdrant
+* ✅ Test local connections
+* ✅ Configure `.env`
+* ✅ Create Prisma schema
+* ✅ Create first migration
+* ✅ Generate Prisma client
 
 ---
 
