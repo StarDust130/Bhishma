@@ -251,14 +251,5 @@ Make Bhishma feel premium.
 
 ---
 
-# 👑 CURRENT FOCUS
 
-## RIGHT NOW BUILD:
-
-1. Docker setup
-2. PostgreSQL
-3. Prisma schema
-4. Express API
-5. Memory system
-
-DO NOT TOUCH FRONTEND YET.
+THE END
