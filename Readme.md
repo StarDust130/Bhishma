@@ -2,7 +2,7 @@
 
   # ⚔️ ॥ भीष्म • Bhīṣma ॥ ⚡
   <div align="center">
-  <img src="public/banner.png" alt="Event Flow Diagram" width="800" />
+  <img src="public/banner.gif" alt="Event Flow Diagram" width="800" />
 </div>
 
   <p align="center">
