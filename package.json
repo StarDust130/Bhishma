@@ -2,17 +2,17 @@
   "name": "bhishma",
   "private": true,
   "packageManager": "pnpm@11.0.0",
-"scripts": {
-  "dev": "turbo dev",
-  "build": "turbo build",
-  "lint": "turbo lint",
-  "typecheck": "turbo typecheck"
-},
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "lint": "turbo lint",
+    "typecheck": "turbo typecheck"
+  },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "eslint": "^10.3.0",
     "prettier": "^3.8.3",
-    "turbo": "^2.9.12",
+    "turbo": "^2.9.14",
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.59.3"
   },
