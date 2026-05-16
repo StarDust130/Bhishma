@@ -55,11 +55,11 @@ Build Bhishma brain.
 
 ### Routes
 
-* [ ] `/health`
-* [ ] `/chat`
-* [ ] `/memory`
-* [ ] `/jobs`
-* [ ] `/tasks`
+* ✅ `/health`
+* ✅ `/chat`
+* ✅ `/memory`
+* ✅ `/jobs`
+* ✅ `/tasks`
 
 ---
 
