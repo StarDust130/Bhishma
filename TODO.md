@@ -44,14 +44,14 @@ Build Bhishma brain.
 
 ### 🔥 Tasks
 
-* [ ] Setup Express server properly
-* [ ] Add middleware
-* [ ] Add request logging
-* [ ] Add error handling
-* [ ] Add health route
-* [ ] Add API versioning
-* [ ] Setup route structure
-* [ ] Setup env validation with zod
+* ✅ Setup Express server properly
+* ✅ Add middleware
+* ✅ Add request logging
+* ✅ Add error handling
+* ✅ Add health route
+* ✅ Add API versioning
+* ✅ Setup route structure
+* ✅ Setup env validation with zod
 
 ### Routes
 
